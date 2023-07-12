@@ -660,6 +660,12 @@ footer nav a:hover {
     height: 40%;
     width: 19%;
   }
+  .email-text h1 {
+    font-size: 1.4rem;
+  }
+  .email-text h2 {
+    font-size: 1rem;
+  }
   footer {
     height: 7%;
   }
