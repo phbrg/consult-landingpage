@@ -1,4 +1,5 @@
 # 👨‍💻 Script solutions ( landing page )
+- landing page que simula a pagina de uma empresa de consultoria
 - codigo limpo e autoral
 - feito com o intuito unicamente de aplicar meus conhecimentos e aprimora-los
 - linguagens usadas: HTML, CSS & Javascript
